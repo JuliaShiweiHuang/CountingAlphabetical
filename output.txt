@@ -1,0 +1,23 @@
+For example, if the input was:
+
+Computer Science is swell. The computer is my pal.
+Is it yours? It is what it is, is it not? DONE
+
+The output would be something like:
+
+Word Count
+====================
+computer 2
+is 6
+it 4
+Words with count = 1
+====================
+my not pal science swell the what yours
+
+
+Enter low count: 2
+Enter high count: 5
+Word Count
+====================
+it 4
+computer 2
